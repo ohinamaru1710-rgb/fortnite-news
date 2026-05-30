@@ -1,2 +1,2 @@
-# fortnite-news
+index.html
 これはFortniteの最新ニュースを公開するサイトですどうぞ見てってくださいこれからの時代はこのサイトです
