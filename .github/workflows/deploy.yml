@@ -16,3 +16,5 @@ async function getFortniteNews() {
     });
 }
 getFortniteNews();
+
+https://fortnite-api.com/v2/news
